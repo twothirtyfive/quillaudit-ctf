@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/jkocher/SmartContractAnalysis/quillaudit-ctf/vipbank/contracts/vipbank.sol": {
+      "lastModificationDate": 1677621619264,
+      "contentHash": "c76e8f4ef4c4ce42812671affb17880b",
+      "sourceName": "contracts/vipbank.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.7"
+      ],
+      "artifacts": [
+        "VIP_Bank"
+      ]
+    }
+  }
+}
