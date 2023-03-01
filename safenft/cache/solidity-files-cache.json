@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/jkocher/SmartContractAnalysis/quillaudit-ctf/safenft/contracts/safenft.sol": {
-      "lastModificationDate": 1677635117030,
-      "contentHash": "f2097f92939447f6a056dc570f4f0c04",
+      "lastModificationDate": 1677636379947,
+      "contentHash": "8a97452fd0d3afebdfb1267db650c76b",
       "sourceName": "contracts/safenft.sol",
       "solcConfig": {
         "version": "0.8.7",
