@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/jkocher/SmartContractAnalysis/quillaudit-ctf/d31eg4t3/contracts/d31eg4t3.sol": {
+      "lastModificationDate": 1677639944882,
+      "contentHash": "d6dcaf3517b1072e603f254a2e6ea431",
+      "sourceName": "contracts/d31eg4t3.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AttackContract",
+        "D31eg4t3"
+      ]
+    }
+  }
+}
